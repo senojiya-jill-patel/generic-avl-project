@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-#include "akhil.h"
+#include "generic_avl.h"
 int main()
 {
     AVL<int> bt = AVL<int>();
